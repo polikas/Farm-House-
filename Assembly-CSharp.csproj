@@ -73,12 +73,6 @@
     <Compile Include="Assets\Scripts\HouseManager.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerUI.cs" />
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -87,6 +81,9 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -117,6 +114,9 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>E:/Unity Projects/Farmhouse_prototype/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
